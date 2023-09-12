@@ -1,0 +1,7 @@
+version: '3'
+services:
+  qs-hexagonal:
+    image: ${SERVICE}
+    ports:
+      - "5000:5000"
+      

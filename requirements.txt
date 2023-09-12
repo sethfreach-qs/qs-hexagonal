@@ -2,3 +2,5 @@ dependency-injector
 flask
 pytest-flask
 pytest-cov
+sqlalchemy
+psycopg2

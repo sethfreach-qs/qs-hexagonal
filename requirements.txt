@@ -4,3 +4,4 @@ pytest-flask
 pytest-cov
 sqlalchemy
 psycopg2
+Flask-Cors
